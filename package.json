@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Ramon Zuniga (ramonzuniga9@gmail.com)",
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.5.1",
